@@ -20,7 +20,6 @@ echo "Welkom ".$naam. "!";
 
 <?php
 $mijnNaam="Carl";
-$jouwNaam="Camel"-+
-;
+$jouwNaam="Camel";
 echo $mijnNaam . " zit bij " . jouwNaam . " in de klas!";
 ?>
